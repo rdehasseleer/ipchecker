@@ -6,3 +6,4 @@ requests
 streamlit
 numpy
 streamlit_folium
+openpyxl
