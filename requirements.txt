@@ -5,3 +5,4 @@ plotly
 requests
 streamlit
 numpy
+streamlit_folium
